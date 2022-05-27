@@ -50,7 +50,7 @@ const menu = [
   {
     id: 7,
     title: "bacon overflow",
-    category: "breakfast",
+    category: "street food",
     price: 8.99,
     img: "https://media-cdn.tripadvisor.com/media/photo-s/0e/0b/6a/7a/the-food-here-was-appetite.jpg",
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
@@ -58,7 +58,7 @@ const menu = [
   {
     id: 8,
     title: "american classic",
-    category: "lunch",
+    category: "fast food",
     price: 12.99,
     img: "https://upload.wikimedia.org/wikipedia/commons/7/71/Soul_Food_at_Powell%27s_Place.jpg",
     desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
@@ -66,7 +66,7 @@ const menu = [
   {
     id: 9,
     title: "quarantine buddy",
-    category: "shakes",
+    category: "dinner",
     price: 16.99,
     img: "https://www.rachaelrayshow.com/sites/default/files/styles/1100x620/public/images/2018-07/91cf0815868e49fd91babbc6444805a4.jpg?itok=3M4EABTz",
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
